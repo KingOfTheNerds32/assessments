@@ -7,7 +7,7 @@ Please submit a written answer for each question that is to be presented to Futu
 The schema for the database and connection instructions are copied below the questions.
 
 
-__Question 1:__ Is coupon usage usage increasing or decreasing on Status Indicator products?  In addition to any visualizations you choose to provide, please quantify your results in numerical terms.
+__Question 1:__ Is coupon usage increasing or decreasing on Status Indicator products?  In addition to any visualizations you choose to provide, please quantify your results in numerical terms.
 
 __Question 2:__ FutureHome is looking to increase repeat customers. Are there products that appear to encourage further sales?
 
